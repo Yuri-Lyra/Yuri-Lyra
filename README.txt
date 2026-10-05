@@ -1,8 +1,8 @@
-# Olá, eu sou Yuri Lyra 👋
+Olá, eu sou Yuri Lyra 👋
 
 QA Analyst focado em Qualidade de Software e Automação de Testes.
 
-## 🚀 Tecnologias
+🚀 Tecnologias
 
 - Playwright
 - JavaScript
@@ -11,15 +11,15 @@ QA Analyst focado em Qualidade de Software e Automação de Testes.
 - CI/CD
 - Agile
 
-## 📚 Atualmente estudando
+📚 Atualmente estudando
 
 - Advanced Playwright
 - Test Architecture
 - CI/CD Pipelines
 - Performance Testing
 
-## 📫 Contato
+📫 Contato
 
-LinkedIn: https://linkedin.com/in/seu-perfil
+LinkedIn: https://www.linkedin.com/in/yuri-carvalho-lyra-8b6418124/
 Email: yurilyra@gmail.com
 phone: 21 97905-6153
