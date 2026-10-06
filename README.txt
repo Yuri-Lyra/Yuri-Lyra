@@ -18,7 +18,7 @@ QA Analyst focado em Qualidade de Software e Automação de Testes.
 - CI/CD Pipelines
 - Performance Testing
 
-📫 Contato
+📫 Contatos
 
 LinkedIn: https://www.linkedin.com/in/yuri-carvalho-lyra-8b6418124/
 Email: yurilyra@gmail.com
