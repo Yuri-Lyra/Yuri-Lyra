@@ -22,4 +22,4 @@ QA Analyst focado em Qualidade de Software e Automação de Testes.
 
 LinkedIn: https://www.linkedin.com/in/yuri-carvalho-lyra-8b6418124/
 Email: yurilyra@gmail.com
-phone: 21 97905-6153
+Phone: (21) 97905-6153
