@@ -6,7 +6,7 @@ QA Analyst focado em Qualidade de Software e Automação de Testes.
 
 - Playwright
 - JavaScript
-- API Testing
+- API REST Testing
 - Git & GitHub
 - CI/CD
 - Agile
